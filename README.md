@@ -1,4 +1,4 @@
-# Telegram Shop Bot — Simple Version
+# Telegram Shop Bot 
 
 A Telegram bot for selling Microsoft license keys (Windows, Office, M365).  
 Accepts TRON USDT (TRC20) payments. Integrates with the CIDMS/PIDMS API at pidkey.com.
